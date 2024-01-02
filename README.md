@@ -14,9 +14,15 @@ Anywaaaays,...
 
 ### GDCP Bot
 
-It was a discord bot one of my friend asked me to do for her friend's discord server, ended up being a big bot for this server. Still working at this day, initial launch: oct 2, 2019
-
+It was a discord bot I had to make for a friend, it ended up becoming a big bot for the server she was on. Initial launch: oct 2, 2019, I stopped it on july 24, 2023<br>
 It was the first project I had to make for someone else than me
+
+### CoordBot
+
+It's GDCP Bot, but better, and with a new name, making him another bot than GDCP Bot. But on paper it's GDCP Bot<br>
+I'm proud of this shit, i've done some funny things and it's a project that I can reopen 6 months later without getting lost.
+
+(Maybe it will also become the successor of [LogicBot](#logicbot)?)
 
 ### CPSDisplay
 
@@ -26,7 +32,7 @@ Nothing special to say about it, the mod was originaly only for myself, and afte
 
 ### EnediaBot
 
-A guy named Tomatos asked me if I'd do a discord bot for a discord server, I said yes, he'll pay me $50 at the end of the month or something (I hope he really pays me lol).
+A guy named Tomatos asked me if I'd do a discord bot for a discord server, I said yes, he'll pay me $50 at the end of the month or something (I hope he really pays me lol) (update jan 2, 2024, he hasn't pay me, i'm still waiting but i have no hope lol).
 
 ### NSIkipédia && MinsweeperNSI
 
