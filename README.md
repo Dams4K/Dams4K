@@ -1,15 +1,3 @@
-# <div align="center">ME.</div>
-
-Okay so, I'll not gonna lie, I don't like doing such a thing: introducing myself, because i think my work describe my more than words
-(And I also hope that one day I'll change this introduction because it's not really professional ahaha)
-
-## Okay so let's talk about me
-I love creating things, not programming. I like programming, don't make me wrong, but the reason I got into development is because I want to create.
-
-**HOWEVER**, now that I'm not bad at programming, I have no problem challenging myself
-
-Anywaaaays,...
-
 ## The dreamland of finished projects
 
 ### [GDCP Bot](https://github.com/Dams4K/GDCPBotV3)
