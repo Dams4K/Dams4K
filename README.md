@@ -53,16 +53,3 @@ Was fun to make, I've learned a lot about procedural terrain generation
 Supposed to be a discord bot similar to Mee6, with a cool awesome website to configure the bot.
 
 Everything was working, but I lost all my motivation after Discord announced that bot developers had to send in their ID card to allow their bot to be on more than 100 servers. And the code base was as always, a complete mess.
-
-## Statistics for the nerds (thanks Youtube)
-See ?, I'm a good developer, I have a lot of commits
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dams4k&show_icons=true)
-
-![For some reasons, they think I am a java developper, thanks Minecraft](https://github-readme-stats.vercel.app/api/top-langs/?username=dams4k)
-
-Okay so I don't always use Wakatime so.... Not quite accurate
-
-![Don't worry, I went out., sometimes](https://github-readme-stats.vercel.app/api/wakatime?username=Dams4K)
-
-What is "GAP" btw?
