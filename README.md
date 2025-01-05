@@ -50,6 +50,6 @@ Was fun to make, I've learned a lot about procedural terrain generation
 ### LogicBot
 (no repo for this project)
 
-Supposed to be a discord bot similar to Mee6, with a cool awesome website to configure the bot.
+Supposed to be a discord bot similar to Mee6, with a cool website to configure the bot.
 
 Everything was working, but I lost all my motivation after Discord announced that bot developers had to send in their ID card to allow their bot to be on more than 100 servers. And the code base was as always, a complete mess.
