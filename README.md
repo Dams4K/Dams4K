@@ -1,5 +1,11 @@
 ## The dreamland of finished projects
 
+### [CPSDisplay](https://github.com/CPSDisplay)
+
+My favorite project so far and the most successful one, by combining [curseforge](https://www.curseforge.com/minecraft/mc-mods/cpsdisplay), [modrinth](https://modrinth.com/mod/cpsdisplay/versions) and [github](https://github.com/CPSDisplay/cpsdisplay), my minecraft mod made over 120k downloads
+
+Nothing special to say about it, the mod was originaly only for myself, and after some bug fixing i ended up publishing it one curseforge. It seemed usefull for other too, so I ended up updating the mod, making a website, a discord server.... Yeah, big project for me, and it is the first to be useful for a lot of people.
+
 ### [GDCP Bot](https://github.com/Dams4K/GDCPBotV3)
 
 It was a discord bot I had to make for a friend, it ended up becoming a big bot for the server she was on. Initial launch: oct 2, 2019, I stopped it on july 24, 2023<br>
@@ -12,15 +18,9 @@ I'm proud of this shit, i've done some funny things and it's a project that I ca
 
 (Maybe it will also become the successor of [LogicBot](#logicbot)?)
 
-### [CPSDisplay](https://github.com/CPSDisplay)
-
-My favorite project so far, because I made money with it!! AHAHAHAA MONEY GOES BRRRRR
-
-Nothing special to say about it, the mod was originaly only for myself, and after some bug fixing i ended up publishing it one curseforge. It seemed usefull for other too, so I ended up updating the mod, making a website, a discord server.... Yeah, big project for me, and it is the first to be usefull for a lot of people.
-
 ### [EnediaBot](https://github.com/Dams4K/EnediaBot)
 
-A guy named Tomatos asked me if I'd do a discord bot for a discord server, I said yes, he'll pay me $50 at the end of the month or something (I hope he really pays me lol) (update jan 2, 2024, he hasn't pay me, so i make the repo public ahah).
+A guy named Tomatos asked me if I do bots for discord, I said yes. He asked me to make one for $50, i made one for him, he didn't payed me :)
 
 ### [NSIkipédia](https://github.com/Dams4K/NSIkipedia) && [MinesweeperNSI](https://github.com/Dams4K/MinesweeperNSI)
 
