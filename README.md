@@ -4,7 +4,7 @@
 
 My favorite project so far and the most successful one, by combining [curseforge](https://www.curseforge.com/minecraft/mc-mods/cpsdisplay), [modrinth](https://modrinth.com/mod/cpsdisplay/versions) and [github](https://github.com/CPSDisplay/cpsdisplay), my minecraft mod made over 120k downloads
 
-Nothing special to say about it, the mod was originaly only for myself, and after some bug fixing i ended up publishing it one curseforge. It seemed usefull for other too, so I ended up updating the mod, making a website, a discord server.... Yeah, big project for me, and it is the first to be useful for a lot of people.
+Nothing special to say about it, the mod was originally just for me, and after some bug fixing I ended up publishing it on curseforge. I felt like it could help others, so I ended up updating the mod, making a website, a discord server.... Yeah, big project for me, and it is the first to be useful for a lot of people.
 
 ### [BFRL](https://github.com/Dams4K/BFRL)
 
