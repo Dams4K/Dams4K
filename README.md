@@ -10,6 +10,11 @@ Nothing special to say about it, the mod was originally just for me, and after s
 
 [French Bridger's Leaderboard](#french-bridgers-leaderboard) but better, it's a remake of the previous one but with better knowledge
 
+### [SMP2I](https://github.com/SMP2I-Community)
+
+When the 2-week minecraft period comes to a start, there is always this one person saying "errhmm but I don't have a minecraft account", and when you want to play minecraft with your friend, with MODS, you need to explain to them how to install minecraft, how to install forge to use mods. It's not their fault, but for my last 2-week period on minecraft with my friends, i decided to make my own minecraft launcher (again). So this is the project, or rather the organization, because I needed several repositories to easily download mods and benefit from skin support.<br>
+I do NOT like making minecraft launchers! So fucking annoying for so many different reasons
+
 ### [EnediaBot](https://github.com/Dams4K/EnediaBot)
 
 A guy named Tomatos asked me if I do bots for discord, I responded yes. He asked me to make one for $50, I made one for him, he didn't pay me :)
