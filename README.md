@@ -8,11 +8,11 @@ Nothing special to say about it, the mod was originally just for me, and after s
 
 ### [BFRL](https://github.com/Dams4K/BFRL)
 
-[French Bridger's Leaderboard](#french-bridgers-leaderboard) but better, it's a remake of the previous but with better knowledge
+[French Bridger's Leaderboard](#french-bridgers-leaderboard) but better, it's a remake of the previous one but with better knowledge
 
 ### [EnediaBot](https://github.com/Dams4K/EnediaBot)
 
-A guy named Tomatos asked me if I do bots for discord, I responded yes. He asked me to make one for $50, I made one for him, he didn't payed me :)
+A guy named Tomatos asked me if I do bots for discord, I responded yes. He asked me to make one for $50, I made one for him, he didn't pay me :)
 
 ### [CoordBot](https://github.com/Dams4K/CoordBot)
 
@@ -23,7 +23,7 @@ I'm proud of this shit, i've done some funny things and it's a project that I ca
 
 ### [GDCP Bot](https://github.com/Dams4K/GDCPBotV3)
 
-It was a discord bot I had to make for a friend, it ended up becoming a big bot for the server she was on. Initial launch: oct 2, 2019, I stopped it on july 24, 2023<br>
+It was a discord bot I had to make for a friend, it ended up becoming a big bot for the server she was on. Initial launch: Oct 2, 2019, I stopped it on July 24, 2023<br>
 It was the first project I had to make for someone else than me
 
 ### [French Bridger's Leaderboard](https://github.com/Dams4K/FrenchMCPlayHDBridgers)
@@ -35,19 +35,19 @@ Basically, French players whose mouse goes BRRRRR in Minecraft needed an automat
 2 projects for school, nothing to say about that, except that I hate developing websites and working with people who don't work.
 
 ## The doomed land of unfinished projects
-(I'll gonna list only the interesting project's i've made)
+(I'll gonna list only the interesting projects I've made)
 
 ### [UJSN](https://github.com/Dams4K/UJSN) (stand for "Un Jeu Sans Nom", "A Game Without a Name" in english)
 
 Damn i was young, I was something like 12 or 13 years old when doing this
 
-One of my first video game, I wanted to make a 2D pixel art battle royale game. It ended up being a fun little game to play with my friends. The code was horrible and unscalable.
+One of my first video games, I wanted to make a 2D pixel art battle royale game. It ended up being a fun little game to play with my friends. The code was horrible and unscalable.
 
-I learned how to create multiplayer games with Godot, and now I've forgotten all about it, but I was using Godot 3.1.0 at the time ! (Godot 4 wasn't even a real thing at this day)
+I learned how to create multiplayer games with Godot, and now I've forgotten all about it, but I was using Godot 3.1.0 at the time! (Godot 4 wasn't even a real thing to this day)
 
 ### [WishCraft](https://github.com/Dams4K/WishCraft)
 
-Minecraft rip-off, but in 2d.
+Minecraft rip-off, but in 2D.
 
 Was fun to make, I've learned a lot about procedural terrain generation
 
