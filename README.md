@@ -6,6 +6,10 @@ My favorite project so far and the most successful one, by combining [curseforge
 
 Nothing special to say about it, the mod was originally just for me, and after some bug fixing I ended up publishing it on curseforge. I felt like it could help others, so I ended up updating the mod, making a website, a discord server.... Yeah, big project for me, and it is the first to be useful for a lot of people.
 
+### [Geogebra Classic 6](https://github.com/Dams4K/geogebra6-linux)
+
+My dad said to me "for some reason, they decided to stop publishing a Linux version of Geogebra, so we're stuck to Classic 5" and I was like "Isn't Geogebra open source?.." So i downloaded the source, tried to compile myself, and I made this. In fact, I didn't change anything in the source code, (just removing a random include folder in a gradle file), but I've made an electron application from the web version of Geogebra. Now Geogebra Classic 6 is available for Linux!
+
 ### [BFRL](https://github.com/Dams4K/BFRL)
 
 [French Bridger's Leaderboard](#french-bridgers-leaderboard) but better, it's a remake of the previous one but with better knowledge
